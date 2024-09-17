@@ -44,7 +44,7 @@ colors:
   tag: 5c97e6
   tag_hover: 4d8de3
   header_background: 4886d9
-  header_text: 1171bf
+  header_text: f0eded
   header_link_hover: 2e73ab
   links: 367fba
   links_visited: 38658a
@@ -52,11 +52,11 @@ colors:
 # Colors - dark mode
 colors_dark:
   background: 333
-  text: ccc
+  text: f0eded
   tag: 5c97e6
   tag_hover: 4d8de3
   header_background: 4886d9
-  header_text: 1171bf
+  header_text: f0eded
   header_link: 3d93d9
   header_link_hover: 2e73ab
   links: 367fba

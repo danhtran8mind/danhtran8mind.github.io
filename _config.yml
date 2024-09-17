@@ -41,23 +41,23 @@ syntax_highlight_stylesheet: syntax_highlight.css
 # Colors - light mode
 colors:
   text: 282828
-  tag: dbefdc
-  tag_hover: 93cf95
+  tag: 5c97e6
+  tag_hover: 4d8de3
   header_background: 4886d9
-  header_text: dbefdc
-  header_link_hover: 93cf95
-  links: 459c48
-  links_visited: 357a38
+  header_text: 1171bf
+  header_link_hover: 2e73ab
+  links: 367fba
+  links_visited: 38658a
 
 # Colors - dark mode
 colors_dark:
   background: 333
   text: ccc
-  tag: 2e6830
-  tag_hover: 93cf95
+  tag: 5c97e6
+  tag_hover: 4d8de3
   header_background: 4886d9
-  header_text: 93cf95
-  header_link: 93cf95
-  header_link_hover: 459c48
-  links: 459c48
-  links_visited: 357a38
+  header_text: 1171bf
+  header_link: 3d93d9
+  header_link_hover: 2e73ab
+  links: 367fba
+  links_visited: 38658a

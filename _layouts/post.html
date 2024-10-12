@@ -5,6 +5,13 @@ layout: default
 <p class="meta">{{ page.date | date_to_string }} - Tags: {{ page.tags | array_to_sentence_string }}</p>
 
 <div class="button_container">
+  {% if page.demo_url %}
+    <a href="{{ page.demo_url }}">
+      <div class="button_link">
+        View on<br /><strong>App Demonstration</strong>
+      </div>
+    </a>
+  {% endif %}
   {% if page.github_url %}
     <a href="{{ page.github_url }}">
       <div class="button_link">
